@@ -8,7 +8,8 @@
 organization_id = ""
 api_token       = ""
 
+llm_provider_token = ""
+
 # optional
 llm_provider_endpoint = "" 
-llm_provider_token = ""
 ```
